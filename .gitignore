@@ -1,1 +1,4 @@
 /data
+*imports.py
+__pycache__
+.ipynb*
